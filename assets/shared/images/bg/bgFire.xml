@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgFire.png">
+<SubTexture name="bgFire idle0000" x="0" y="0" width="890" height="790" frameX="0" frameY="-10" frameWidth="890" frameHeight="800" />
+<SubTexture name="bgFire idle0001" x="0" y="0" width="890" height="790" frameX="0" frameY="-10" frameWidth="890" frameHeight="800" />
+<SubTexture name="bgFire idle0002" x="890" y="790" width="890" height="765" frameX="0" frameY="-35" frameWidth="890" frameHeight="800" />
+<SubTexture name="bgFire idle0003" x="890" y="790" width="890" height="765" frameX="0" frameY="-35" frameWidth="890" frameHeight="800" />
+<SubTexture name="bgFire idle0004" x="0" y="790" width="890" height="780" frameX="0" frameY="-20" frameWidth="890" frameHeight="800" />
+<SubTexture name="bgFire idle0005" x="0" y="790" width="890" height="780" frameX="0" frameY="-20" frameWidth="890" frameHeight="800" />
+<SubTexture name="bgFire idle0006" x="890" y="0" width="890" height="781" frameX="0" frameY="-19" frameWidth="890" frameHeight="800" />
+<SubTexture name="bgFire idle0007" x="890" y="0" width="890" height="781" frameX="0" frameY="-19" frameWidth="890" frameHeight="800" />
+</TextureAtlas>

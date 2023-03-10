@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="screen.png">
+<SubTexture name="redscreen instance0000" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0000" x="0" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="00" />
+<SubTexture name="redscreen start0001" x="30" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0002" x="0" y="3000" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0003" x="30" y="3000" width="3000" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0004" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0005" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0006" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0007" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0008" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0009" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0010" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0011" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0012" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0013" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0014" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0015" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0016" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0017" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0018" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0019" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0020" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0021" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0022" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0023" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0024" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0025" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0026" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0027" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0028" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0029" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="redscreen start0030" x="60" y="0" width="30" height="30" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+</TextureAtlas>

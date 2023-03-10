@@ -1,0 +1,30 @@
+{
+  "storyName": "finale",
+  "difficulties": "normal",
+  "hideFreeplay": false,
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "weekBefore": "tutorial",
+  "startUnlocked": true,
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "songs": [
+    [
+      "finale",
+      "death",
+      [
+        110,
+        10,
+        10
+      ]
+    ]
+  ],
+  "hideStoryMode": true,
+  "weekName": ""
+}

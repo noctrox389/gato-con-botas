@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "puss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "puss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "puss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "puss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "puss miss_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "puss miss_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "puss miss_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "puss miss_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "puss idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/puss",
+	"position": [
+		20,
+		30
+	],
+	"healthicon": "puss",
+	"flip_x": true,
+	"healthbar_colors": [
+		224,
+		150,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
